@@ -26,7 +26,7 @@ Measures model accuracy and performance across different market conditions.
 
 BTC Dashboard - Demo
 
-Production Deployment Guide for www.mybtctracker.com - Complete deployment infrastructure for Bitcoin prediction dashboard.
+Production Deployment Guide - Complete deployment infrastructure for Bitcoin prediction dashboard.
 
 
 
